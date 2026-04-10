@@ -69,9 +69,14 @@ Bastien
 	├── Spain
 	├── USA
 	├── United Kingdom
+	├── Canada
 	├── Australia
+	├── Malaisia
 	├── Thailand
 	├── Italy
+	├── India
+	├── Indonesia
+	├── United Arab Emirates
 	├── Switzerland
 	├── Greece
 	└── Ireland
