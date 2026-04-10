@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./assets/bmagere.gif" alt="Neon sunset banner" width="100%" />
+  <img src="./assets/bmagere2.gif" alt="bmagere2" width="100%" />
 </p>
+
+<br> 
 
 <h1 align="center">Bastien Magère</h1>
 <h3 align="center"><code>Clinical thinking meets software building</code></h3>
@@ -10,6 +12,8 @@
   <i>I study systems, whether they run on trauma or on Linux.</i>
 </p>
 
+
+<br> 
 
 ## 🕵️‍♂️ whoami 
 
@@ -31,6 +35,9 @@ Today, I stand at the intersection of several fields:
 
 I am interested in both the architecture of a program and the architecture of a person.
 In both cases, symptoms are rarely the whole story.
+
+<br> 
+<br> 
 
 ---
 
@@ -70,6 +77,9 @@ Bastien
 	└── Ireland
 ```
 
+<br> 
+<br> 
+
 ---
 
 ## 🧘🏼‍♂️ about_me
@@ -89,6 +99,11 @@ What probably defines me best is this mix:
 
 I prefer projects with depth. The kind that force you to think, fail, refine, and come back stronger.
 
+
+<br> 
+<br> 
+
+
 ---
 
 ## 👁️ current_focus
@@ -101,6 +116,10 @@ Right now, I am mainly focused on:
 - building real technical rigor  
 - exploring the bridges between clinical reasoning and software problem-solving  
 - creating work that reflects both precision and personality  
+
+<br> 
+<br> 
+
 
 ---
 
@@ -131,6 +150,8 @@ Right now, I am mainly focused on:
 - **Building something personal, quietly**  
   One of the deeper reasons I started learning to code at 42. Still under construction. More when the time is right.
 
+<br> 
+
 ---
 
 ## 🧬 beyond_code
@@ -148,6 +169,9 @@ Travel helped me widen my perspective and question what people casually call “
 
 The next destination is still undecided.
 
+
+<br> 
+
 ---
 
 ## 🤝 contact
@@ -156,7 +180,12 @@ The next destination is still undecided.
 - LinkedIn: coming soon
 - Portfolio / Website: [cabinethypnoseangouleme](https://cabinethypnoseangouleme.wordpress.com)
 
----
+<br> 
+<br> 
+<br>
+
+
+
 
 <p align="center">
   <i>Understand deeply. Build cleanly. Keep moving.</i>
@@ -165,4 +194,21 @@ The next destination is still undecided.
   <img src="https://img.shields.io/badge/Mind-FF4FD8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Code-8A2EFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Discipline-00E5FF?style=for-the-badge" />
+</p>
+
+<br> 
+
+<br>
+
+---
+<br>
+<p align="center">
+  <b>Merci de m'avoir lu jusqu'au bout 🇫🇷</b>
+</p>
+
+---
+<br>
+
+<p align="center">
+  <img src="./assets/bmagere7.gif" alt="bmagere7" width="100%" />
 </p>
